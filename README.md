@@ -7,4 +7,4 @@
 # Projet_musico
 Projet d'analyse et de visualisation du dataset musicoset avec quelques composantes de deep learning pour la génération de lyrics.   
 ## Extrait de mon fichier Power BI :   
-![alt text](https://github.com/Cyril-Joubert/Projet_musico/extrait_analyse_artistes.jpg?raw=true)
+![alt text](https://github.com/Cyril-Joubert/Projet_musico//blob/main/extrait_analyse_artistes.jpg?raw=true)
