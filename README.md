@@ -5,4 +5,6 @@
 - Fine tune un modèle de deep learning pour la génération de lyrics   
 - Eventuellement, migrer mes données sur SQLite   
 # Projet_musico
-Projet d'analyse et de visualisation du dataset musicoset avec quelques composantes de deep learning pour la génération de lyrics.
+Projet d'analyse et de visualisation du dataset musicoset avec quelques composantes de deep learning pour la génération de lyrics.   
+## Extrait de mon fichier Power BI :   
+![alt text](https://github.com/Cyril-Joubert/extrait_analyse_artistes.pdf?raw=true)
