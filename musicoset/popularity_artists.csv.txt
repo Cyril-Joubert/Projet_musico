@@ -1,0 +1,211 @@
+year,artist,popularity
+2000,Eminem,95
+2000,Britney Spears,92
+2000,N'Sync,88
+2000,Destiny's Child,85
+2000,Christina Aguilera,80
+2000,Ricky Martin,78
+2000,U2,75
+2000,Madonna,72
+2000,Backstreet Boys,70
+2000,Janet Jackson,68
+2001,Alicia Keys,95
+2001,Destiny's Child,92
+2001,Nelly,88
+2001,Usher,85
+2001,Jennifer Lopez,80
+2001,Shaggy,78
+2001,Linkin Park,75
+2001,Britney Spears,72
+2001,Eminem,70
+2001,Janet Jackson,68
+2002,Eminem,95
+2002,Avril Lavigne,92
+2002,Nelly,88
+2002,Shakira,85
+2002,Usher,80
+2002,Ashanti,78
+2002,Justin Timberlake,75
+2002,Linkin Park,72
+2002,Jennifer Lopez,70
+2002,Norah Jones,68
+2003,50 Cent,95
+2003,Beyoncé,92
+2003,OutKast,88
+2003,Justin Timberlake,85
+2003,Christina Aguilera,80
+2003,Evanescence,78
+2003,Coldplay,75
+2003,Sean Paul,72
+2003,The Black Eyed Peas,70
+2003,Usher,68
+2004,Usher,95
+2004,Maroon 5,92
+2004,Alicia Keys,88
+2004,Kanye West,85
+2004,OutKast,80
+2004,Britney Spears,78
+2004,Eminem,75
+2004,Avril Lavigne,72
+2004,Destiny's Child,70
+2004,Green Day,68
+2005,Kanye West,95
+2005,Mariah Carey,92
+2005,Gwen Stefani,88
+2005,50 Cent,85
+2005,Coldplay,80
+2005,Kelly Clarkson,78
+2005,Shakira,75
+2005,The Black Eyed Peas,72
+2005,Green Day,70
+2005,Rihanna,68
+2006,Beyoncé,95
+2006,Justin Timberlake,92
+2006,Rihanna,88
+2006,Shakira,85
+2006,The Black Eyed Peas,80
+2006,Nelly Furtado,78
+2006,Eminem,75
+2006,Gwen Stefani,72
+2006,Fergie,70
+2006,Akon,68
+2007,Rihanna,95
+2007,Beyoncé,92
+2007,Justin Timberlake,88
+2007,Kanye West,85
+2007,Fergie,80
+2007,Maroon 5,78
+2007,Alicia Keys,75
+2007,Avril Lavigne,72
+2007,Soulja Boy,70
+2007,Gwen Stefani,68
+2008,Lil Wayne,95
+2008,Rihanna,92
+2008,Coldplay,88
+2008,Beyoncé,85
+2008,Katy Perry,80
+2008,Kanye West,78
+2008,Chris Brown,75
+2008,Leona Lewis,72
+2008,Pink,70
+2008,Britney Spears,68
+2009,Lady Gaga,95
+2009,Beyoncé,92
+2009,Taylor Swift,88
+2009,Black Eyed Peas,85
+2009,Eminem,80
+2009,Kanye West,78
+2009,Lady Antebellum,75
+2009,Jay-Z,72
+2009,Britney Spears,70
+2009,Taylor Swift,68
+2010,Eminem,95
+2010,Lady Gaga,92
+2010,Katy Perry,88
+2010,Rihanna,85
+2010,Bruno Mars,80
+2010,Lady Antebellum,78
+2010,Justin Bieber,75
+2010,Drake,72
+2010,Usher,70
+2010,Train,68
+2011,Adele,95
+2011,Rihanna,92
+2011,Lady Gaga,88
+2011,Katy Perry,85
+2011,Bruno Mars,80
+2011,Justin Bieber,78
+2011,Pitbull,75
+2011,Adele,72
+2011,Maroon 5,70
+2011,Nicki Minaj,68
+2012,Adele,95
+2012,Rihanna,92
+2012,Taylor Swift,88
+2012,Maroon 5,85
+2012,Bruno Mars,80
+2012,Justin Bieber,78
+2012,One Direction,75
+2012,Nicki Minaj,72
+2012,Katy Perry,70
+2012,Drake,68
+2013,Justin Timberlake,95
+2013,Macklemore & Ryan Lewis,92
+2013,Bruno Mars,88
+2013,Katy Perry,85
+2013,Rihanna,80
+2013,Imagine Dragons,78
+2013,Miley Cyrus,75
+2013,One Direction,72
+2013,Taylor Swift,70
+2013,Drake,68
+2014,Taylor Swift,95
+2014,Ed Sheeran,92
+2014,Pharrell Williams,88
+2014,Ariana Grande,85
+2014,Sam Smith,80
+2014,Meghan Trainor,78
+2014,Iggy Azalea,75
+2014,Katy Perry,72
+2014,Maroon 5,70
+2014,Nicki Minaj,68
+2015,Taylor Swift,95
+2015,Ed Sheeran,92
+2015,Justin Bieber,88
+2015,Drake,85
+2015,Adele,80
+2015,The Weeknd,78
+2015,Beyoncé,75
+2015,Meghan Trainor,72
+2015,Ariana Grande,70
+2015,Sam Smith,68
+2016,Drake,95
+2016,Beyoncé,92
+2016,Rihanna,88
+2016,Twenty One Pilots,85
+2016,The Weeknd,80
+2016,Adele,78
+2016,Justin Bieber,75
+2016,Sia,72
+2016,Drake,70
+2016,Ariana Grande,68
+2017,Ed Sheeran,95
+2017,Kendrick Lamar,92
+2017,Bruno Mars,88
+2017,Drake,85
+2017,The Weeknd,80
+2017,Post Malone,78
+2017,Imagine Dragons,75
+2017,Taylor Swift,72
+2017,Cardi B,70
+2017,Khalid,68
+2018,Drake,95
+2018,Post Malone,92
+2018,Ed Sheeran,88
+2018,Ariana Grande,85
+2018,XXXTentacion,80
+2018,Cardi B,78
+2018,Travis Scott,75
+2018,Khalid,72
+2018,Eminem,70
+2018,Dua Lipa,68
+2019,Post Malone,95
+2019,Billie Eilish,92
+2019,Ariana Grande,88
+2019,Ed Sheeran,85
+2019,Khalid,80
+2019,Drake,78
+2019,BTS,75
+2019,Taylor Swift,72
+2019,Lil Nas X,70
+2019,Cardi B,68
+2020,The Weeknd,95
+2020,Taylor Swift,92
+2020,Dua Lipa,88
+2020,Roddy Ricch,85
+2020,BTS,80
+2020,Post Malone,78
+2020,Harry Styles,75
+2020,Cardi B,72
+2020,Drake,70
+2020,Megan Thee Stallion,68
